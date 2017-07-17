@@ -3,6 +3,7 @@ analytics: {}
 github: true
 description: Christian Apparel and Accessories
 author:
+  url: chosenroyals.com
   email: chosenroyals@mail.com
 collections:
   - index:
