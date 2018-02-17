@@ -1,3 +1,18 @@
+layout_spectrum: 0.22560588126144565
+typography_spectrum: 0.5160265485662967
+color:
+  lightness: 0.543796541586168
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  saturation: 0.5436012989279843
+  brandStrength: 0.5145049272288597
+  rhythmicContrast: 0.07959379474014634
+coverPrefs:
+  filter: false
 name: 'Chosen Royals '
 analytics: {}
 github: true
@@ -18,20 +33,7 @@ collections:
       format: rss
       number: 10
 content: []
-layout_spectrum: 0.5
-color:
-  lightness: 0.9297484995168048
-  brandColors:
-    - '#00585F'
-    - '#009393'
-    - '#FFFCC4'
-    - '#F0EDBB'
-    - '#FF3800'
-  saturation: 0.06688963879525886
-  brandStrength: 0.02920557582499589
-  rhythmicContrast: 0.6101924710930773
 content_rating:
   adult: false
-typography_spectrum: 0.5
 opengraph: {}
 title: Chosen Royals Co.
